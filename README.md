@@ -1,6 +1,7 @@
 # Hacktoberfest2023
 This is for Hacktoberfest 2023. Don't forget to give us a ⭐
 ***
+## RULES TO FOLLOW:
 1. Solve any [leetcode](https://www.leetcode.com/) problem and ensure it isn't solved already. Write the question before solving the problem in the comments.
 2. The problem should only be solved in **Java**.
 3. Write question inside /* */ before the answer to make it easier for the reader to understand.
